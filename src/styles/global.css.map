@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAEE,gBAAY;EACV,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,KAAK",
+"mappings": "AAOI,kBAAG;EACD,KAAK,EAAE,GAAG",
 "sources": ["../App/app.scss"],
 "names": [],
 "file": "global.css"
