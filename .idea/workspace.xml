@@ -1,115 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dee12de5-341a-4580-abd1-0433c3f490d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.scss" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="$PROJECT_DIR$/build/asset-manifest.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-scripts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/domains/core.js" afterPath="$PROJECT_DIR$/node_modules/promise/domains/core.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/domains/es6-extensions.js" afterPath="$PROJECT_DIR$/node_modules/promise/domains/es6-extensions.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/domains/rejection-tracking.js" afterPath="$PROJECT_DIR$/node_modules/promise/domains/rejection-tracking.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/domains/synchronous.js" afterPath="$PROJECT_DIR$/node_modules/promise/domains/synchronous.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/promise/index.d.ts" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/lib/core.js" afterPath="$PROJECT_DIR$/node_modules/promise/lib/core.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/lib/es6-extensions.js" afterPath="$PROJECT_DIR$/node_modules/promise/lib/es6-extensions.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/lib/rejection-tracking.js" afterPath="$PROJECT_DIR$/node_modules/promise/lib/rejection-tracking.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/lib/synchronous.js" afterPath="$PROJECT_DIR$/node_modules/promise/lib/synchronous.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/package.json" afterPath="$PROJECT_DIR$/node_modules/promise/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/setimmediate/core.js" afterPath="$PROJECT_DIR$/node_modules/promise/setimmediate/core.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/setimmediate/es6-extensions.js" afterPath="$PROJECT_DIR$/node_modules/promise/setimmediate/es6-extensions.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/setimmediate/rejection-tracking.js" afterPath="$PROJECT_DIR$/node_modules/promise/setimmediate/rejection-tracking.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/setimmediate/synchronous.js" afterPath="$PROJECT_DIR$/node_modules/promise/setimmediate/synchronous.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/env.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/babelTransform.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/cssTransform.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/fileTransform.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/paths.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/polyfills.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.dev.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.prod.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpackDevServer.config.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/.jshintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/build.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/done.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/es6-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/finally.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/node-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/rejection-tracking.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/domains/synchronous.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/index.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/index.js.flow" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/done.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/es6-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/finally.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/node-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/rejection-tracking.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/lib/synchronous.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/package-lock.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/polyfill-done.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/polyfill.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/done.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/es6-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/finally.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/node-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/rejection-tracking.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/setimmediate/synchronous.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/done.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/es6-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/finally.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/node-extensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/rejection-tracking.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/src/synchronous.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/whatwg-fetch/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/whatwg-fetch/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/whatwg-fetch/fetch.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/whatwg-fetch/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/eject.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/init.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/start.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/createJestConfig.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/manifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/registerServiceWorker.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/README.md" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/fetch.js" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/fetch.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/App/App.js" afterPath="$PROJECT_DIR$/src/App/App.js" />
-      <change beforePath="$PROJECT_DIR$/src/App/app.scss" afterPath="$PROJECT_DIR$/src/App/app.scss" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.css" afterPath="$PROJECT_DIR$/src/styles/global.css" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.css.map" afterPath="$PROJECT_DIR$/src/styles/global.css.map" />
-    </list>
+    <list default="true" id="dee12de5-341a-4580-abd1-0433c3f490d6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -141,8 +33,8 @@
           <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/App/app.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="335">
-                  <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+                <state relative-caret-position="631">
+                  <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -196,7 +88,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="566" />
     <option name="y" value="27" />
     <option name="width" value="1440" />
@@ -314,27 +206,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525893526104</updated>
-      <workItem from="1525893527251" duration="7038000" />
+      <workItem from="1525893527251" duration="7083000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejected project, SCSS, grids">
+      <created>1525900903972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525900903972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7038000" />
+    <option name="totallyTimeSpent" value="7083000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13653137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13653137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -350,6 +250,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejected project, SCSS, grids" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejected project, SCSS, grids" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -460,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        <state relative-caret-position="631">
+          <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
           <folding />
         </state>
       </provider>
