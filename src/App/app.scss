@@ -4,40 +4,35 @@
 
   $primary-white: #FFF;
 
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  grid-template-rows: 80px 200px;
-  justify-content: space-around;
+  .grid-container {
 
-  grid-gap: 40px; // kan även ta 2 argument, eller skrivas som nedanför
-  //grid-column-gap: 50px;
-  //grid-row-gap: 50px;
+    display: grid;
 
-  background-color: dodgerblue;
-  color: $primary-white;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 10vh;
 
-  border-radius: 0 0 50px 50px;
-  height: 40vh;
-  padding: 50px;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    //grid-template-columns: repeat(4, 1fr);
+    //grid-template-rows: auto auto;
 
-  img {
-    width: 50%;
-    max-width: 500px;
+
+    //grid-gap: 40px 40px; // kan även ta 1 argument, eller skrivas som nedanför
+    //grid-column-gap: 50px;
+    //grid-row-gap: 50px;
+
+    background-color: darkseagreen;
+    color: $primary-white;
   }
 
   .grid-item {
-    display: grid;
-    background-color: rgba(255, 255, 255, 0.3);
-    border-radius: 20px;
-    padding: 20px;
-    font-size: 2em;
+    align-self: center;
+    justify-self: center;
     text-align: center;
-    justify-content: center;
 
+    width: 50%;
+    background-color: mix(darkseagreen, white, 60%);
+    font-size: 2em;
   }
 
-  .item-1 {
-    grid-row-start: 1;
-    grid-row-end: 3;
-  }
 }
