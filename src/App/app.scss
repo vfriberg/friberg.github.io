@@ -8,8 +8,8 @@
   .grid-container {
     display: grid;
 
-    //grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    grid-auto-columns: 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    //grid-auto-columns: 1fr;
     grid-auto-rows: 10vh;
 
     //justify-content: space-evenly;
@@ -22,7 +22,7 @@
 
 
     //grid-gap: 40px 40px; // kan även ta 1 argument, eller skrivas som nedanför
-    //grid-column-gap: 50px;
+    grid-column-gap: 50px;
     //grid-row-gap: 50px;
 
     background-color: $background-color;
@@ -34,8 +34,7 @@
     justify-self: center;
     text-align: center;
 
-    width: 20%;
-
+    width: 100%;
     background-color: mix($background-color, white, 70%);
     font-size: 2em;
   }

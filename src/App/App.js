@@ -14,8 +14,12 @@ class App extends Component {
                     <div className={"grid-item"}>Boot</div>
                     <div className={"grid-item"}>strap</div>
                     <div className={"grid-item"}>Here</div>
-                    <div className={"grid-item"}>
-                    </div>
+                    {/*<div className={"grid-item"}>*/}
+                        {/*<div className={"grid-container"}>*/}
+                            {/*<div className={"grid-item"}>Inside!</div>*/}
+                            {/*<div className={"grid-item"}>Inside 2!</div>*/}
+                        {/*</div>*/}
+                    {/*</div>*/}
                 </div>
             </div>
         );
